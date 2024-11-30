@@ -1,5 +1,5 @@
 # IT-161--Project
-By- Pradyumn Prasad , Ishita Garg, Suhani
+By- Pradyumn Prasad , Ishita Garg, Suhani Kabra
 
 Topic -Telecom Billing System in C
 
